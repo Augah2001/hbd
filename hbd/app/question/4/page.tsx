@@ -80,7 +80,7 @@ const DateInvite = () => {
           marginBottom: '15px',
         }}
       >
-        Press YES to see the **Bonus Question**! 🎁  
+        Press YES to see the Bonus Question! 🎁  
         (Or No to terminate😜)
       </motion.div>
 
