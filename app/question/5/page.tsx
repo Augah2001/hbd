@@ -23,7 +23,7 @@ const BonusQuestion = () => {
         justifyContent: 'center',
         height: '100vh',
         background: 'linear-gradient(135deg, #ff758c 0%, #ff7eb3 100%)',
-        fontFamily: "'Comic Sans MS', cursive, sans-serif",
+        fontFamily: "'Comic Sans MS', sans-serif",
         textAlign: 'center',
         padding: '0 20px',
       }}

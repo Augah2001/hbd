@@ -29,7 +29,7 @@ const QuestionTwo = () => {
         justifyContent: 'center',
         height: '100vh',
         background: 'linear-gradient(135deg, #ffdde1 0%, #ee9ca7 100%)',
-        fontFamily: "'Comic Sans MS', cursive, sans-serif",
+        fontFamily: "'Comic Sans MS', sans-serif",
         textAlign: 'center',
         padding: '0 20px',
         position: 'relative',
