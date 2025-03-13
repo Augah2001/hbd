@@ -8,7 +8,7 @@ const HomePage = () => {
   const router = useRouter();
 
   const handleNext = () => {
-    router.push(`/question/1`); // Change this to the actual route
+    router.push(`/verification`); // Change this to the actual route
   };
 
   return (
